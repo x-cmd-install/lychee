@@ -5,19 +5,19 @@ about:
   head: 81cb43e
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-07T04:43:45Z
+  collectedAt: 2026-09-07T19:45:46Z
 timeline:
   created: 2020-08-04
   lastCommit: 2026-09-06
-  lastRelease: 2026-08-31
+  lastRelease: 2026-09-07
 popularity:
   star: 3891
   watcher: 15
   fork: 226
   release: 63
   contributor: 114
-  pullRequest: 1639
-  issue: 576
+  pullRequest: 1641
+  issue: 577
 language:
   Rust: 1074636
   Dockerfile: 4194
@@ -31,60 +31,60 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 8
-    openPR: 5
+    openPR: 6
     closedIssue: 3
-    openIssue: 0
+    openIssue: 1
     commit: 6
   last60d:
     since: 2026-07-09
     release: 1
     mergedPR: 13
-    openPR: 9
+    openPR: 10
     closedIssue: 4
-    openIssue: 5
+    openIssue: 6
     commit: 13
   last90d:
     since: 2026-06-09
     release: 1
     mergedPR: 24
-    openPR: 13
+    openPR: 14
     closedIssue: 8
-    openIssue: 9
+    openIssue: 10
     commit: 29
   last180d:
     since: 2026-03-11
     release: 7
     mergedPR: 106
-    openPR: 18
+    openPR: 19
     closedIssue: 28
-    openIssue: 19
+    openIssue: 20
     commit: 118
   last360d:
     since: 2025-09-12
     release: 13
     mergedPR: 229
-    openPR: 18
+    openPR: 19
     closedIssue: 90
-    openIssue: 33
+    openIssue: 34
     commit: 269
   last720d:
     since: 2024-09-17
     release: 31
     mergedPR: 397
-    openPR: 18
+    openPR: 19
     closedIssue: 188
-    openIssue: 45
+    openIssue: 46
     commit: 567
 total:
   release: 63
   mergedPR: 1323
-  openPR: 18
+  openPR: 19
   closedIssue: 517
-  openIssue: 59
+  openIssue: 60
   commit: 2146
 ---
 path: /home/runner/.x-repo/github.com/lycheeverse/lychee
-collectedAt: 2026-09-07T04:43:47Z
+collectedAt: 2026-09-07T19:45:49Z
 loc:
   Svg:
     code: 28054
@@ -360,7 +360,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:43:48+00:00
+  collectedAt: 2026-09-07T19:45:49+00:00
   platform:
     darwin/arm64:
       name:  lychee-aarch64-apple-darwin.tar.gz
