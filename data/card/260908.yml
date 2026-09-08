@@ -5,7 +5,7 @@ about:
   head: 4e06548
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-08T01:55:57Z
+  collectedAt: 2026-09-08T04:44:54Z
 timeline:
   created: 2020-08-04
   lastCommit: 2026-09-07
@@ -84,7 +84,7 @@ total:
   commit: 2147
 ---
 path: /home/runner/.x-repo/github.com/lycheeverse/lychee
-collectedAt: 2026-09-08T01:56:02Z
+collectedAt: 2026-09-08T04:44:56Z
 loc:
   Svg:
     code: 28054
