@@ -4,7 +4,7 @@
 
 ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 
-![lychee](https://repo.x-cmd.io/lychee.svg)
+![lychee](https://repo.x-cmd.io/lychee.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,39 @@ x install lychee
 - **最新版本**: `nightly` (2026-05-01)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 24 个
-- **发布时间**: 2026-05-01T15:41:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [lychee-aarch64-apple-darwin.dmg](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-apple-darwin.dmg) | 7.2 MiB | `native/darwin/arm64` |
+| [lychee-aarch64-apple-darwin.dmg.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-apple-darwin.dmg.sha256) | 98 B | `native/darwin/arm64` |
+| [lychee-aarch64-apple-darwin.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-apple-darwin.tar.gz) | 6.7 MiB | `native/darwin/arm64` |
+| [lychee-aarch64-apple-darwin.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-apple-darwin.tar.gz.sha256) | 101 B | `native/darwin/arm64` |
+| [lychee-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-unknown-linux-gnu.tar.gz) | 6.8 MiB | `native/linux/arm64/glibc` |
+| [lychee-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-unknown-linux-gnu.tar.gz.sha256) | 106 B | `native/linux/arm64/glibc` |
+| [lychee-aarch64-unknown-linux-musl.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-unknown-linux-musl.tar.gz) | 6.6 MiB | `native/linux/arm64/musl` |
+| [lychee-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-unknown-linux-musl.tar.gz.sha256) | 107 B | `native/linux/arm64/musl` |
+| [lychee-arm-unknown-linux-musleabi.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-arm-unknown-linux-musleabi.tar.gz) | 6.3 MiB | `native/linux/arm/musl` |
+| [lychee-arm-unknown-linux-musleabi.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-arm-unknown-linux-musleabi.tar.gz.sha256) | 107 B | `native/linux/arm/musl` |
+| [lychee-arm-unknown-linux-musleabihf.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-arm-unknown-linux-musleabihf.tar.gz) | 6.3 MiB | `native/linux/arm/musl` |
+| [lychee-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-arm-unknown-linux-musleabihf.tar.gz.sha256) | 109 B | `native/linux/arm/musl` |
+| [lychee-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-armv7-unknown-linux-gnueabihf.tar.gz) | 6.2 MiB | `native/linux/arm/glibc` |
+| [lychee-armv7-unknown-linux-gnueabihf.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-armv7-unknown-linux-gnueabihf.tar.gz.sha256) | 110 B | `native/linux/arm/glibc` |
+| [lychee-i686-unknown-linux-gnu.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-i686-unknown-linux-gnu.tar.gz) | 7.4 MiB | `native/linux/x86/glibc` |
+| [lychee-i686-unknown-linux-gnu.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-i686-unknown-linux-gnu.tar.gz.sha256) | 103 B | `native/linux/x86/glibc` |
+| [lychee-x86_64-apple-darwin.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-apple-darwin.tar.gz) | 7.0 MiB | `native/darwin/x64` |
+| [lychee-x86_64-apple-darwin.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-apple-darwin.tar.gz.sha256) | 100 B | `native/darwin/x64` |
+| [lychee-x86_64-pc-windows-msvc.zip](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-pc-windows-msvc.zip) | 6.6 MiB | `native/win/x64` |
+| [lychee-x86_64-pc-windows-msvc.zip.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-pc-windows-msvc.zip.sha256) | 170 B | `native/win/x64` |
+| [lychee-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-gnu.tar.gz) | 7.3 MiB | `native/linux/x64/glibc` |
+| [lychee-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-gnu.tar.gz.sha256) | 105 B | `native/linux/x64/glibc` |
+| [lychee-x86_64-unknown-linux-musl.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-musl.tar.gz) | 7.3 MiB | `native/linux/x64/musl` |
+| [lychee-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-musl.tar.gz.sha256) | 106 B | `native/linux/x64/musl` |
 
 ## 流行度
 
-- **Star**: 3,898 · **Fork**: 232 · **开放 issue**: 577 · **贡献者**: 114
+- **Star**: 3,901 · **Fork**: 232 · **开放 issue**: 577 · **贡献者**: 114
 
 ## 累计统计
 
@@ -72,4 +100,4 @@ lychee 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:53:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:25:10Z._
