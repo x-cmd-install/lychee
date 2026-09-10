@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7546834,
       "digest": "sha256:63db1aae26bdb080e61bfdcc32931c205448d425cb2bdfdb6ec9ccb1b15cf5c8",
-      "download_count": 160,
+      "download_count": 166,
       "created_at": "2026-05-01T15:55:05Z",
       "updated_at": "2026-05-01T15:55:06Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-apple-darwin.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6992530,
       "digest": "sha256:c9d3740ea2d891854d37116c9fba840f37b6e7c89d330e7db84ac333631c4977",
-      "download_count": 27700,
+      "download_count": 27805,
       "created_at": "2026-05-01T15:55:05Z",
       "updated_at": "2026-05-01T15:55:06Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:5e2ea03b7f8db807c0cf9d661a627921581831d30e24e7c21e4348e8b87a7588",
-      "download_count": 3069,
+      "download_count": 3090,
       "created_at": "2026-05-01T15:55:05Z",
       "updated_at": "2026-05-01T15:55:05Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-apple-darwin.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7111728,
       "digest": "sha256:91a7bd65685da41b90ccb9bc867a3d649a7818042dae04ff405e55a25bddee4c",
-      "download_count": 30240,
+      "download_count": 30517,
       "created_at": "2026-05-01T15:57:42Z",
       "updated_at": "2026-05-01T15:57:43Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:42610a8d1f1ccd2b7b3b4eec664b020f08698dd1dc4aeab09aa790e9bbd57173",
-      "download_count": 225,
+      "download_count": 227,
       "created_at": "2026-05-01T15:57:42Z",
       "updated_at": "2026-05-01T15:57:43Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6962068,
       "digest": "sha256:5d0b0e3aeab240f41920c633a6eaf97599be6eedda034b36e858ede7dba5e535",
-      "download_count": 20732,
+      "download_count": 20826,
       "created_at": "2026-05-01T15:56:31Z",
       "updated_at": "2026-05-01T15:56:31Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-unknown-linux-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:762f993d45138718b3b51d112b716facd35088404c4df51cec0ad5d8b74fded6",
-      "download_count": 226,
+      "download_count": 238,
       "created_at": "2026-05-01T15:56:31Z",
       "updated_at": "2026-05-01T15:56:31Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 7338545,
       "digest": "sha256:887503a9cff667d322b8d0892b40bf49976eb9507af8483220a3706cdad55978",
-      "download_count": 1134,
+      "download_count": 1136,
       "created_at": "2026-05-01T15:54:28Z",
       "updated_at": "2026-05-01T15:54:29Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-apple-darwin.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:c2ce5e918628a0e6ee3a5bbf24bf0205a4b0cfa41a930e956f0eb5e363297358",
-      "download_count": 101,
+      "download_count": 102,
       "created_at": "2026-05-01T15:54:28Z",
       "updated_at": "2026-05-01T15:54:28Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-apple-darwin.tar.gz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 6868524,
       "digest": "sha256:32975d1493ee1a975d6bb41e4fb56fe419cb442ded628bb772ba2e614acfacad",
-      "download_count": 26241,
+      "download_count": 26328,
       "created_at": "2026-05-01T15:57:48Z",
       "updated_at": "2026-05-01T15:57:49Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-pc-windows-msvc.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 170,
       "digest": "sha256:d538cd26e301e03db64a8997bfabd9bafec19b66c19331baefb7073b614e5d79",
-      "download_count": 407,
+      "download_count": 409,
       "created_at": "2026-05-01T15:57:48Z",
       "updated_at": "2026-05-01T15:57:48Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-pc-windows-msvc.zip.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 7626970,
       "digest": "sha256:1f4e0ef7f6554a6ed33dd7ac144fb2e1bbed98598e7af973042fc5cd43951c9a",
-      "download_count": 1080992,
+      "download_count": 1088770,
       "created_at": "2026-05-01T15:57:08Z",
       "updated_at": "2026-05-01T15:57:08Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-gnu.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:307ca947a1970f17683ab183faa50b69fccdcd1d7f7dcd31610baf6b2c62a7d7",
-      "download_count": 95318,
+      "download_count": 96041,
       "created_at": "2026-05-01T15:57:08Z",
       "updated_at": "2026-05-01T15:57:08Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 7705781,
       "digest": "sha256:73657a111819a30c47c08352896796f23d64e4eb2b3ed39b6d32149241566fc5",
-      "download_count": 231793,
+      "download_count": 232765,
       "created_at": "2026-05-01T15:57:23Z",
       "updated_at": "2026-05-01T15:57:24Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-musl.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:3c436b825300c64189ab7a3fa20605465ba325949126dba9d8ce8dd2b677f8c3",
-      "download_count": 10653,
+      "download_count": 10712,
       "created_at": "2026-05-01T15:57:23Z",
       "updated_at": "2026-05-01T15:57:23Z",
       "browser_download_url": "https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-musl.tar.gz.sha256"
