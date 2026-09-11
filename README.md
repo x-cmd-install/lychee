@@ -12,6 +12,28 @@
 x install lychee
 ```
 
+## Code insight
+
+Total: **63,012** lines of code across **229** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Svg | 28,054 | 5 | 1 | 9 |
+| Rust | 23,426 | 1,216 | 3,803 | 140 |
+| Html | 10,659 | 35 | 72 | 43 |
+| Toml | 464 | 189 | 155 | 33 |
+| Sh | 91 | 24 | 34 | 4 |
+
+## OpenSSF Scorecard
+
+Overall score: **5 / 10**
+
+Lowest-scoring checks:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/lycheeverse/lychee>
@@ -23,6 +45,25 @@ x install lychee
 - **Latest**: `nightly` (2026-05-01)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 24
+
+## Popularity
+
+- **Stars**: 3,902 · **Forks**: 232 · **Open issues**: 577 · **Contributors**: 114
+
+## Totals (cumulative)
+
+- **Releases**: 63 · **Merged PRs**: 1324 · **Open PRs**: 20 · **Closed issues**: 517 · **Open issues**: 60 · **Commits**: 2147
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 1 | 6 | 7 | 2 | 1 | 7 |
+| last60d | 2026-07-13 | 1 | 14 | 11 | 4 | 6 | 14 |
+| 90d | 2026-06-13 | 1 | 25 | 15 | 8 | 10 | 30 |
+| last180d | 2026-03-15 | 7 | 104 | 20 | 28 | 20 | 119 |
+| 360d | 2025-09-16 | 13 | 228 | 20 | 90 | 34 | 270 |
+| last720d | 2024-09-21 | 31 | 398 | 20 | 188 | 45 | 568 |
 
 ## Release assets
 
@@ -53,44 +94,6 @@ x install lychee
 | [lychee-x86_64-unknown-linux-musl.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-musl.tar.gz) | 7.3 MiB | `native/linux/x64/musl` |
 | [lychee-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-musl.tar.gz.sha256) | 106 B | `native/linux/x64/musl` |
 
-## Popularity
-
-- **Stars**: 3,901 · **Forks**: 232 · **Open issues**: 577 · **Contributors**: 114
-
-## Totals (cumulative)
-
-- **Releases**: 63 · **Merged PRs**: 1324 · **Open PRs**: 20 · **Closed issues**: 517 · **Open issues**: 60 · **Commits**: 2147
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 6 | 7 | 2 | 1 | 7 |
-| 90d | 2026-06-12 | 1 | 25 | 15 | 8 | 10 | 30 |
-| 360d | 2025-09-15 | 13 | 228 | 20 | 90 | 34 | 270 |
-
-## Code size
-
-Total: **63,012** lines of code across **229** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Svg | 28,054 | 5 | 1 | 9 |
-| Rust | 23,426 | 1,216 | 3,803 | 140 |
-| Html | 10,659 | 35 | 72 | 43 |
-| Toml | 464 | 189 | 155 | 33 |
-| Sh | 91 | 24 | 34 | 4 |
-
-## OpenSSF Scorecard
-
-Overall score: **5 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
-
 ## Improve this data
 
 Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lychee` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +103,4 @@ Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:10Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:12:35Z._
