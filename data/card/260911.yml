@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly"
   latestRelease: "lychee-v0.24.2"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-11T00:12:29Z
+  collectedAt: 2026-09-11T04:56:29Z
 timeline:
   created: 2020-08-04
   lastCommit: 2026-09-07
@@ -88,7 +88,7 @@ total:
   commit: 2147
 ---
 path: /home/runner/.x-repo/github.com/lycheeverse/lychee
-collectedAt: 2026-09-11T00:12:31Z
+collectedAt: 2026-09-11T04:56:31Z
 loc:
   Svg:
     code: 28054
