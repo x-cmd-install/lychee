@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,918 · **Forks**: 234 · **Open issues**: 578 · **Contributors**: 114
+- **Stars**: 3,919 · **Forks**: 234 · **Open issues**: 578 · **Contributors**: 114
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 5 | 5 | 2 | 2 | 5 |
-| last60d | 2026-07-19 | 1 | 14 | 11 | 3 | 6 | 14 |
-| 90d | 2026-06-19 | 1 | 24 | 15 | 8 | 11 | 28 |
-| last180d | 2026-03-21 | 7 | 101 | 20 | 27 | 21 | 114 |
-| 360d | 2025-09-22 | 13 | 228 | 20 | 90 | 35 | 268 |
-| last720d | 2024-09-27 | 31 | 398 | 20 | 185 | 46 | 557 |
+| 30d | 2026-08-19 | 1 | 5 | 4 | 1 | 2 | 5 |
+| last60d | 2026-07-20 | 1 | 14 | 11 | 3 | 6 | 14 |
+| 90d | 2026-06-20 | 1 | 23 | 15 | 7 | 11 | 28 |
+| last180d | 2026-03-22 | 7 | 101 | 20 | 27 | 21 | 114 |
+| 360d | 2025-09-23 | 13 | 227 | 20 | 90 | 35 | 268 |
+| last720d | 2024-09-28 | 31 | 397 | 20 | 185 | 46 | 557 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:18:31Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:55:30Z._
