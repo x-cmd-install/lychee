@@ -4,7 +4,7 @@
 
 ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 
-![lychee](https://repo.x-cmd.io/lychee.svg?lang=zh)
+[![x-cmd/install — lychee Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lychee.svg?lang=zh)](https://x-cmd.com/install/lychee)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install lychee
 
 ## 流行度
 
-- **Star**: 3,919 · **Fork**: 234 · **开放 issue**: 578 · **贡献者**: 114
+- **Star**: 3,921 · **Fork**: 234 · **开放 issue**: 579 · **贡献者**: 114
 
 ## 累计统计
 
-- **发布数**: 63 · **已合并 PR**: 1324 · **开放 PR**: 20 · **已关闭 issue**: 517 · **开放 issue**: 61 · **提交数**: 2147
+- **发布数**: 63 · **已合并 PR**: 1324 · **开放 PR**: 20 · **已关闭 issue**: 517 · **开放 issue**: 62 · **提交数**: 2147
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 5 | 4 | 1 | 2 | 5 |
-| last60d | 2026-07-20 | 1 | 14 | 11 | 3 | 6 | 14 |
-| 90d | 2026-06-20 | 1 | 23 | 15 | 7 | 11 | 28 |
-| last180d | 2026-03-22 | 7 | 101 | 20 | 27 | 21 | 114 |
-| 360d | 2025-09-23 | 13 | 227 | 20 | 90 | 35 | 268 |
-| last720d | 2024-09-28 | 31 | 397 | 20 | 185 | 46 | 557 |
+| 30d | 2026-08-21 | 1 | 4 | 4 | 1 | 3 | 4 |
+| last60d | 2026-07-22 | 1 | 14 | 11 | 3 | 7 | 14 |
+| 90d | 2026-06-22 | 1 | 21 | 14 | 7 | 11 | 25 |
+| last180d | 2026-03-24 | 7 | 99 | 20 | 27 | 21 | 107 |
+| 360d | 2025-09-25 | 13 | 226 | 20 | 90 | 36 | 263 |
+| last720d | 2024-09-30 | 31 | 396 | 20 | 185 | 47 | 556 |
 
 ## Release 资产
 
@@ -103,4 +103,4 @@ lychee 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:55:30Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:12:40Z._

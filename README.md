@@ -4,7 +4,7 @@
 
 ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 
-![lychee](https://repo.x-cmd.io/lychee.svg)
+[![x-cmd/install — lychee Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lychee.svg)](https://x-cmd.com/install/lychee)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,919 · **Forks**: 234 · **Open issues**: 578 · **Contributors**: 114
+- **Stars**: 3,921 · **Forks**: 234 · **Open issues**: 579 · **Contributors**: 114
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 1324 · **Open PRs**: 20 · **Closed issues**: 517 · **Open issues**: 61 · **Commits**: 2147
+- **Releases**: 63 · **Merged PRs**: 1324 · **Open PRs**: 20 · **Closed issues**: 517 · **Open issues**: 62 · **Commits**: 2147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 5 | 4 | 1 | 2 | 5 |
-| last60d | 2026-07-20 | 1 | 14 | 11 | 3 | 6 | 14 |
-| 90d | 2026-06-20 | 1 | 23 | 15 | 7 | 11 | 28 |
-| last180d | 2026-03-22 | 7 | 101 | 20 | 27 | 21 | 114 |
-| 360d | 2025-09-23 | 13 | 227 | 20 | 90 | 35 | 268 |
-| last720d | 2024-09-28 | 31 | 397 | 20 | 185 | 46 | 557 |
+| 30d | 2026-08-21 | 1 | 4 | 4 | 1 | 3 | 4 |
+| last60d | 2026-07-22 | 1 | 14 | 11 | 3 | 7 | 14 |
+| 90d | 2026-06-22 | 1 | 21 | 14 | 7 | 11 | 25 |
+| last180d | 2026-03-24 | 7 | 99 | 20 | 27 | 21 | 107 |
+| 360d | 2025-09-25 | 13 | 226 | 20 | 90 | 36 | 263 |
+| last720d | 2024-09-30 | 31 | 396 | 20 | 185 | 47 | 556 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:55:30Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:12:39Z._
