@@ -4,7 +4,7 @@
 
 ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 
-[![x-cmd/install — lychee Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lychee.svg)](https://x-cmd.com/install/lychee)
+[![x-cmd/install — lychee Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lychee.svg)](https://x-cmd.com/install/lychee)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,924 · **Forks**: 234 · **Open issues**: 580 · **Contributors**: 118
+- **Stars**: 3,931 · **Forks**: 234 · **Open issues**: 582 · **Contributors**: 118
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 1332 · **Open PRs**: 14 · **Closed issues**: 522 · **Open issues**: 58 · **Commits**: 2178
+- **Releases**: 63 · **Merged PRs**: 1332 · **Open PRs**: 13 · **Closed issues**: 523 · **Open issues**: 59 · **Commits**: 2178
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 8 | 3 | 1 | 4 | 18 |
-| last60d | 2026-07-24 | 1 | 20 | 8 | 5 | 5 | 32 |
-| 90d | 2026-06-24 | 1 | 28 | 9 | 10 | 8 | 48 |
-| last180d | 2026-03-26 | 7 | 102 | 14 | 31 | 16 | 130 |
-| 360d | 2025-09-27 | 13 | 234 | 14 | 94 | 33 | 286 |
-| last720d | 2024-10-02 | 31 | 403 | 14 | 190 | 43 | 586 |
+| 30d | 2026-08-24 | 1 | 7 | 3 | 2 | 5 | 18 |
+| last60d | 2026-07-25 | 1 | 20 | 8 | 6 | 5 | 32 |
+| 90d | 2026-06-25 | 1 | 28 | 9 | 10 | 9 | 48 |
+| last180d | 2026-03-27 | 7 | 102 | 13 | 32 | 17 | 130 |
+| 360d | 2025-09-28 | 13 | 234 | 13 | 95 | 34 | 286 |
+| last720d | 2024-10-03 | 31 | 402 | 13 | 191 | 44 | 586 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:06:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:07:10Z._
