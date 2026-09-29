@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-05-01)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-28
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 3,953 · **Forks**: 236 · **Open issues**: 583 · **Contributors**: 118
+- **Stars**: 3,958 · **Forks**: 236 · **Open issues**: 583 · **Contributors**: 118
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 1332 · **Open PRs**: 14 · **Closed issues**: 523 · **Open issues**: 60 · **Commits**: 2178
+- **Releases**: 63 · **Merged PRs**: 1334 · **Open PRs**: 15 · **Closed issues**: 523 · **Open issues**: 60 · **Commits**: 2182
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 7 | 4 | 2 | 6 | 16 |
-| last60d | 2026-07-30 | 1 | 17 | 8 | 6 | 6 | 28 |
-| 90d | 2026-06-30 | 1 | 25 | 10 | 8 | 9 | 41 |
-| last180d | 2026-04-01 | 7 | 98 | 14 | 32 | 18 | 122 |
-| 360d | 2025-10-03 | 13 | 231 | 14 | 94 | 35 | 285 |
-| last720d | 2024-10-08 | 27 | 397 | 14 | 189 | 45 | 574 |
+| 30d | 2026-08-30 | 1 | 9 | 5 | 2 | 6 | 18 |
+| last60d | 2026-07-31 | 1 | 19 | 8 | 6 | 6 | 30 |
+| 90d | 2026-07-01 | 1 | 27 | 11 | 8 | 9 | 43 |
+| last180d | 2026-04-02 | 7 | 99 | 15 | 32 | 18 | 124 |
+| 360d | 2025-10-04 | 13 | 232 | 15 | 94 | 35 | 287 |
+| last720d | 2024-10-09 | 27 | 399 | 15 | 189 | 45 | 575 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:33:12Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:53:18Z._
