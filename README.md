@@ -26,7 +26,7 @@ Total: **65,126** lines of code across **227** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-05-01)
-- **Last commit**: 2026-10-11
-- **Assets in release**: 24
+- **Last commit**: 2026-10-12
+- **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 4,001 · **Forks**: 235 · **Open issues**: 585 · **Contributors**: 118
+- **Stars**: 4,003 · **Forks**: 234 · **Open issues**: 587 · **Contributors**: 118
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 1337 · **Open PRs**: 13 · **Closed issues**: 525 · **Open issues**: 60 · **Commits**: 2187
+- **Releases**: 63 · **Merged PRs**: 1338 · **Open PRs**: 13 · **Closed issues**: 525 · **Open issues**: 62 · **Commits**: 2188
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 7 | 3 | 2 | 6 | 18 |
-| last60d | 2026-08-13 | 1 | 16 | 5 | 4 | 7 | 25 |
-| 90d | 2026-07-14 | 1 | 25 | 8 | 8 | 10 | 38 |
-| last180d | 2026-04-15 | 7 | 91 | 13 | 30 | 18 | 114 |
-| 360d | 2025-10-17 | 13 | 229 | 13 | 92 | 36 | 278 |
-| last720d | 2024-10-22 | 27 | 392 | 13 | 186 | 45 | 564 |
+| 30d | 2026-09-13 | 1 | 8 | 3 | 2 | 8 | 19 |
+| last60d | 2026-08-14 | 1 | 17 | 5 | 4 | 9 | 26 |
+| 90d | 2026-07-15 | 1 | 26 | 8 | 8 | 11 | 39 |
+| last180d | 2026-04-16 | 7 | 90 | 13 | 27 | 18 | 115 |
+| 360d | 2025-10-18 | 13 | 230 | 13 | 92 | 38 | 279 |
+| last720d | 2024-10-23 | 27 | 392 | 13 | 186 | 47 | 565 |
 
 ## Release assets
 
@@ -93,6 +93,7 @@ Lowest-scoring checks:
 | [lychee-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-gnu.tar.gz.sha256) | 105 B | `native/linux/x64/glibc` |
 | [lychee-x86_64-unknown-linux-musl.tar.gz](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-musl.tar.gz) | 7.3 MiB | `native/linux/x64/musl` |
 | [lychee-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-musl.tar.gz.sha256) | 106 B | `native/linux/x64/musl` |
+| [schema.json](https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/schema.json) | 26.8 KiB | `other` |
 
 ## Improve this data
 
@@ -103,4 +104,4 @@ Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:06:46Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:03:13Z._
