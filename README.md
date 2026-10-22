@@ -14,19 +14,19 @@ x install lychee
 
 ## Code insight
 
-Total: **65,126** lines of code across **227** files in the top 5 languages.
+Total: **65,073** lines of code across **227** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 28,054 | 5 | 1 | 9 |
-| Rust | 24,775 | 1,295 | 3,945 | 141 |
-| Html | 10,659 | 35 | 72 | 43 |
+| Rust | 25,046 | 1,302 | 3,967 | 142 |
+| Html | 10,356 | 35 | 72 | 42 |
 | Json | 760 | 0 | 0 | 1 |
 | Toml | 469 | 192 | 156 | 33 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-05-01)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 4,028 · **Forks**: 239 · **Open issues**: 588 · **Contributors**: 119
+- **Stars**: 4,032 · **Forks**: 239 · **Open issues**: 588 · **Contributors**: 121
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 1342 · **Open PRs**: 16 · **Closed issues**: 525 · **Open issues**: 63 · **Commits**: 2195
+- **Releases**: 63 · **Merged PRs**: 1345 · **Open PRs**: 14 · **Closed issues**: 527 · **Open issues**: 61 · **Commits**: 2198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 8 | 6 | 0 | 8 | 12 |
-| last60d | 2026-08-22 | 1 | 18 | 7 | 3 | 10 | 30 |
-| 90d | 2026-07-23 | 1 | 30 | 11 | 7 | 12 | 44 |
-| last180d | 2026-04-24 | 7 | 82 | 16 | 22 | 18 | 107 |
-| 360d | 2025-10-26 | 11 | 229 | 16 | 90 | 39 | 274 |
-| last720d | 2024-10-31 | 27 | 390 | 16 | 185 | 48 | 564 |
+| 30d | 2026-09-22 | 1 | 10 | 5 | 2 | 4 | 15 |
+| last60d | 2026-08-23 | 1 | 20 | 6 | 5 | 8 | 33 |
+| 90d | 2026-07-24 | 1 | 33 | 9 | 9 | 9 | 47 |
+| last180d | 2026-04-25 | 3 | 80 | 14 | 24 | 16 | 110 |
+| 360d | 2025-10-27 | 11 | 229 | 14 | 91 | 37 | 277 |
+| last720d | 2024-11-01 | 27 | 393 | 14 | 187 | 46 | 567 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:49:57Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:49:30Z._
