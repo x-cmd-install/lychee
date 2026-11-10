@@ -26,7 +26,7 @@ Total: **65,073** lines of code across **227** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-05-01)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-09
 - **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 4,111 · **Forks**: 244 · **Open issues**: 588 · **Contributors**: 122
+- **Stars**: 4,116 · **Forks**: 245 · **Open issues**: 589 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 1349 · **Open PRs**: 14 · **Closed issues**: 527 · **Open issues**: 61 · **Commits**: 2204
+- **Releases**: 63 · **Merged PRs**: 1351 · **Open PRs**: 15 · **Closed issues**: 527 · **Open issues**: 62 · **Commits**: 2208
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 10 | 3 | 1 | 2 | 11 |
-| last60d | 2026-09-10 | 1 | 18 | 5 | 4 | 7 | 31 |
-| 90d | 2026-08-11 | 1 | 27 | 7 | 6 | 8 | 43 |
-| last180d | 2026-05-13 | 1 | 74 | 14 | 19 | 15 | 100 |
-| 360d | 2025-11-14 | 11 | 219 | 14 | 83 | 36 | 254 |
-| last720d | 2024-11-19 | 25 | 381 | 14 | 183 | 46 | 561 |
+| 30d | 2026-10-11 | 1 | 12 | 4 | 1 | 3 | 13 |
+| last60d | 2026-09-11 | 1 | 20 | 6 | 4 | 8 | 33 |
+| 90d | 2026-08-12 | 1 | 29 | 8 | 6 | 9 | 45 |
+| last180d | 2026-05-14 | 1 | 76 | 15 | 19 | 16 | 102 |
+| 360d | 2025-11-15 | 11 | 221 | 15 | 83 | 37 | 256 |
+| last720d | 2024-11-20 | 25 | 383 | 15 | 183 | 47 | 565 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:31:50Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:37:20Z._
