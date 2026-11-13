@@ -14,12 +14,12 @@ x install lychee
 
 ## Code insight
 
-Total: **65,073** lines of code across **227** files in the top 5 languages.
+Total: **65,158** lines of code across **227** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 28,054 | 5 | 1 | 9 |
-| Rust | 25,046 | 1,302 | 3,967 | 142 |
+| Rust | 25,131 | 1,305 | 3,972 | 142 |
 | Html | 10,356 | 35 | 72 | 42 |
 | Json | 760 | 0 | 0 | 1 |
 | Toml | 469 | 192 | 156 | 33 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-05-01)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-12
 - **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 4,123 · **Forks**: 246 · **Open issues**: 590 · **Contributors**: 122
+- **Stars**: 4,125 · **Forks**: 245 · **Open issues**: 590 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 1351 · **Open PRs**: 16 · **Closed issues**: 527 · **Open issues**: 63 · **Commits**: 2208
+- **Releases**: 63 · **Merged PRs**: 1353 · **Open PRs**: 14 · **Closed issues**: 528 · **Open issues**: 62 · **Commits**: 2210
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 9 | 5 | 0 | 3 | 13 |
-| last60d | 2026-09-13 | 1 | 20 | 7 | 4 | 9 | 33 |
-| 90d | 2026-08-14 | 1 | 29 | 9 | 6 | 10 | 45 |
-| last180d | 2026-05-16 | 1 | 76 | 16 | 18 | 16 | 102 |
-| 360d | 2025-11-17 | 11 | 217 | 16 | 80 | 38 | 256 |
-| last720d | 2024-11-22 | 25 | 383 | 16 | 183 | 48 | 565 |
+| 30d | 2026-10-14 | 1 | 11 | 2 | 0 | 3 | 15 |
+| last60d | 2026-09-14 | 1 | 21 | 5 | 5 | 8 | 35 |
+| 90d | 2026-08-15 | 1 | 31 | 7 | 7 | 9 | 47 |
+| last180d | 2026-05-17 | 1 | 78 | 14 | 19 | 15 | 104 |
+| 360d | 2025-11-18 | 11 | 218 | 14 | 81 | 35 | 258 |
+| last720d | 2024-11-23 | 25 | 385 | 14 | 184 | 47 | 567 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for lychee lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:23:17Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:48:57Z._
